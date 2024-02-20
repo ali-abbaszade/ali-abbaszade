@@ -2,18 +2,6 @@
 
 I'm a Backend developer with a passion for problem-solving and a love for Python.
 
-## 💻 Technical Skills
-
-- **Programming Languages**: Proficient in Python, Familiar with JavaScript
-- **Frameworks**: Django
-- **Databases**: PostgreSQL, MySQL
-- **Version Control**: Git
-- **Testing Tools**: PyTest
-- **Other Tools**: Docker
-
-## 🌱 I’m currently learning 
-
-I'm currently diving deeper into the world of **Django REST Framework** and exploring containerization with **Docker**.
 
 ## 📫 How to reach me 
 
